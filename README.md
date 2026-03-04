@@ -1,64 +1,86 @@
-# 👋 Hi, I'm Himanshu Meshram
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Himanshu%20Meshram&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-🎮 **Game Developer | Unity Programmer 
-
-I am Game Developer passionate about building games using **Unity and C#**.  
-Currently learning **advanced gameplay programming, AI systems, and game mechanics**.
-
----
-
-## 🚀 About Me
-
-- 🎮 Building games with **Unity Engine**
-- 💻 Programming in **C#**
-- 🧠 Learning **Game AI, Physics, and Gameplay Systems**
-- 📚 BCA Game Development Student
-- 🎯 Goal: Become a **Professional Game Programmer**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Game+Developer;Unity+Programmer;C%23+Gameplay+Programmer;Building+Games+with+Code"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🎮 About Me
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal-000000?style=for-the-badge&logo=unreal-engine)
+👋 Hi, I'm **Himanshu Meshram**
 
----
+🎓 Game Development Student  
+🎮 Unity Game Developer  
+💻 C# Gameplay Programmer  
 
-## 🎮 My Game Projects
+I love building **game mechanics, player systems, and gameplay features** using Unity.
 
-🚀 Some games I built using Unity:
-
-- 🕹️ **Player Runner**
-- 🚀 **Rocket Shooter**
-- 🍎 **Fruit Collector**
-- 🐱 **Cat Runner**
-- ⚽ **Ball Dodge**
-
-More projects coming soon...
+My goal is to become a **professional game programmer** and work in the game industry.
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Skills
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuMeshrm&show_icons=true&theme=radical)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,git,blender,linux,html,css,js"/>
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=HimanshuMeshrm&theme=radical)
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🎮 Featured Game Projects
 
-📺 YouTube: https://youtube.com/@GameDevHimshu  
+### 🏃 Player Runner
+Endless runner game with obstacle mechanics.
 
-💼 LinkedIn: https://www.linkedin.com/in/himanshu-meshram-2782b4313
+### 🚀 Rocket Shooter
+Arcade style shooter game made in Unity.
+
+### 🍎 Fruit Collector
+2D game where player collects fruits while avoiding obstacles.
+
+### 🐱 Cat Runner
+Fast paced runner game with increasing difficulty.
+
+### ⚽ Ball Dodge
+Physics based game where player dodges incoming balls.
 
 ---
 
-⭐ **If you like my projects, consider giving them a star!**
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HimanshuMeshrm&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuMeshrm&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🧠 Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMeshrm&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📺 YouTube  
+https://youtube.com/@GameDevHimshu  
+
+💼 LinkedIn  
+https://www.linkedin.com/in/himanshu-meshram-2782b4313  
+
+---
+
+⭐ **Check out my repositories to see my Unity projects!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
