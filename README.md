@@ -3,22 +3,30 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Himanshu%20Meshram%20%F0%9F%8E%AE&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
-<img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="400"/>
 </p>
 
 ---
 
-# 👾 About Me
+# 👾 Himanshu Meshram
 
-Hi, I'm **Himanshu Meshram**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Unity+Game+Developer;C%23+Gameplay+Programmer;Building+Games+With+Code;Future+AAA+Game+Programmer"/>
+</p>
 
-🎓 Game Development Student  
+---
+
+# 🎮 About Me
+
+👋 Hi, I'm **Himanshu Meshram**
+
+🎓 BCA Game Development Student  
 🎮 Unity Game Developer  
 💻 C# Gameplay Programmer  
 
-I enjoy building **gameplay mechanics, player controllers, and game systems** in Unity.
+I love building **game mechanics, player systems, and gameplay features** using Unity.
 
-My goal is to become a **professional game programmer** in the game industry.
+Goal: **Become a professional game programmer in the game industry.**
 
 ---
 
@@ -32,45 +40,22 @@ My goal is to become a **professional game programmer** in the game industry.
 
 ---
 
-# 🎮 Game Portfolio
+# 🎮 Featured Games
 
-## 🏃 Player Runner
-Endless runner game built in Unity.
+### 🏃 Player Runner
+Endless runner game with obstacle mechanics.
 
-![Game Screenshot](https://via.placeholder.com/600x300.png?text=Player+Runner+Game)
+### 🚀 Rocket Shooter
+Arcade shooter game built in Unity.
 
-Repository  
-https://github.com/HimanshuMeshrm/Player-Runner
+### 🍎 Fruit Collector
+2D collection game with player movement mechanics.
 
----
+### 🐱 Cat Runner
+Fast paced runner game.
 
-## 🚀 Rocket Shooter
-Arcade shooter game with enemy mechanics.
-
-![Game Screenshot](https://via.placeholder.com/600x300.png?text=Rocket+Shooter+Game)
-
-Repository  
-https://github.com/HimanshuMeshrm/Rocket-Shooter
-
----
-
-## 🍎 Fruit Collector
-2D Unity game where the player collects fruits while avoiding obstacles.
-
-![Game Screenshot](https://via.placeholder.com/600x300.png?text=Fruit+Collector+Game)
-
-Repository  
-https://github.com/HimanshuMeshrm/Fruit-Collector
-
----
-
-## 🐱 Cat Runner
-Fast paced runner game with increasing difficulty.
-
-![Game Screenshot](https://via.placeholder.com/600x300.png?text=Cat+Runner+Game)
-
-Repository  
-https://github.com/HimanshuMeshrm/Cat-Runner
+### ⚽ Ball Dodge
+Physics based dodge survival game.
 
 ---
 
@@ -86,7 +71,17 @@ https://github.com/HimanshuMeshrm/Cat-Runner
 
 ---
 
-# 📈 Contribution Graph
+# 🧠 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMeshrm&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 3D Contribution Graph
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimanshuMeshrm&theme=tokyonight"/>
 
@@ -102,6 +97,6 @@ https://www.linkedin.com/in/himanshu-meshram-2782b4313
 
 ---
 
-⭐ Check out my repositories to see my Unity game projects!
+⭐ **Check out my repositories to see my Unity game projects!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
