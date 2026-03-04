@@ -1,10 +1,7 @@
 <!-- GAME DEV BANNER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Himanshu%20Meshram%20%F0%9F%8E%AE&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Himanshu%20Meshram%20%F0%9F%8E%AE&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<p align="center">
-<img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="400"/>
-</p>
 
 ---
 
