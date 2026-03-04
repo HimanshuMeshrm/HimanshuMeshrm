@@ -12,7 +12,7 @@
 
 👋 Hi, I'm **Himanshu Meshram**
 
-🎓 BCA Game Development Student  
+🎓 Game Development Student  
 🎮 Unity Game Developer  
 💻 C# Gameplay Programmer  
 
