@@ -1,6 +1,8 @@
 <!-- GAME DEV BANNER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=220&section=header&text=Gameplay%20Programmer%20%7C%20Unity%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<p align="center">
+<img src="Downloads/f5e72547-6d16-41d7-a33f-72b0ed6d32a9.png"/>
+</p>
 ---
 
 # 👾 Himanshu Meshram
