@@ -1,10 +1,5 @@
 <!-- GAME DEV BANNER -->
 
-<p align="center">
-<img src="Downloads/f5e72547-6d16-41d7-a33f-72b0ed6d32a9.png"/>
-</p>
----
-
 # 👾 Himanshu Meshram
 
 <p align="center">
